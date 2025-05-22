@@ -1,0 +1,31 @@
+Name: Praveena 
+Email: prav0034@gmail.com  
+Phone: +91-9123456789
+
+Summary:
+Enthusiastic and quick-learning Computer Science graduate with a strong interest in cloud computing and DevOps practices. Completed online certifications and mini-projects in AWS and CI/CD pipelines. Eager to apply my foundational knowledge in a real-world DevOps role and grow as an infrastructure engineer.
+
+Skills:
+-Basics of AWS (EC2, S3)
+-Linux (Ubuntu) – file system, shell commands
+-Git and GitHub=
+-Basics of Docker
+-Introduction to CI/CD (GitHub Actions)
+-Python (basic scripting)
+
+Projects:
+-Mini CI/CD Pipeline (Academic Project):
+Created a basic workflow using GitHub Actions that builds and deploys a static website to GitHub Pages.
+-Cloud Fundamentals Practice:
+Launched and configured EC2 instances, attached S3 buckets, and explored IAM through AWS Educate.
+-Basic Automation Script:
+Wrote a Python script to automate backup of files and push to a Git repo.
+
+Education:
+B.E. in Computer Science and Engineering
+Velammal Institute of Technology
+CGPA: 8.3
+
+Certifications:
+-Introduction to Cloud Computing – Coursera (IBM)
+-Git and GitHub – Udemy

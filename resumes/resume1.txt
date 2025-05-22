@@ -1,0 +1,28 @@
+Name: Yagnesh
+Email: yagnesh26801@.com
+Phone: +91-9876543210
+
+Summary:
+A dedicated Cloud & DevOps Engineer with 2.5 years of experience in automating infrastructure, managing deployments, and maintaining scalable cloud solutions. Skilled in AWS, CI/CD pipelines, and container orchestration. Strong focus on reliability, security, and operational excellence.
+
+Skills:
+-AWS (EC2, S3, IAM, Lambda)
+-Docker & Kubernetes
+-Jenkins, GitHub Actions
+-Terraform, Ansible
+-Linux System Administration
+-Git, Bash, Python scripting
+-Monitoring: Prometheus, Grafana
+
+Projects:
+-CI/CD Automation for Node.js App:
+Automated build and deployment pipeline using Jenkins and Docker, deployed to AWS ECS, reducing deployment time by 60%.
+-Infrastructure-as-Code (IaC):
+Managed multi-tier AWS architecture using Terraform with reusable modules, improving deployment consistency and rollback safety.
+-Kubernetes Microservices Setup:
+Containerized and deployed 5+ microservices using Kubernetes and Helm on AWS EKS, with monitoring via Prometheus and Grafana.
+
+Education:
+B.E. in Computer Science and Egineerig
+Jeppiaar Engineering College
+CGPA: 8.6
