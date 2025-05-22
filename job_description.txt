@@ -1,0 +1,19 @@
+We are looking for a Cloud & DevOps Engineer to join our engineering team and help design, build, and maintain scalable, reliable, and secure cloud infrastructure and CI/CD pipelines.
+
+Responsibilities:
+-Design and implement cloud infrastructure using platforms like AWS, Azure, or GCP
+-Automate infrastructure provisioning using Terraform, Ansible, or CloudFormation
+-Set up and maintain CI/CD pipelines using Jenkins, GitHub Actions, or GitLab CI
+-Monitor system performance and troubleshoot deployment issues
+-Collaborate with developers to ensure smooth code integration and delivery
+-Implement security and compliance best practices in DevOps workflows
+
+Requirements:
+-Solid understanding of DevOps principles and Infrastructure as Code (IaC)
+-Hands-on experience with cloud platforms (AWS preferred)
+-Proficiency in Linux system administration
+-Experience with Docker and Kubernetes for containerization and orchestration
+-Familiarity with CI/CD tools (e.g., Jenkins, GitHub Actions, GitLab CI)
+-Knowledge of scripting languages like Bash or Python
+-Version control experience using Git
+-Basic knowledge of monitoring tools (e.g., Prometheus, Grafana) is a plus
